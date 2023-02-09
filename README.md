@@ -3,3 +3,4 @@ A repository for DGL 104 CVS1 students to practice using the fork and pull model
 
 ## Contributor list
 - Ashley Blacquiere
+- Elizabeth Giesbrecht
